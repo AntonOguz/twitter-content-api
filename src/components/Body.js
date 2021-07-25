@@ -7,6 +7,7 @@ const Body = () => {
         <div className={'body'}>
             <SideBar/>
             <Content/>
+            Hello, world!
         </div>
     );
 };
