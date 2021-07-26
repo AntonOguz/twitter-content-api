@@ -8,6 +8,7 @@ const Body = () => {
             <SideBar/>
             <Content/>
             Hello, world!
+            Print
         </div>
     );
 };
